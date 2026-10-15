@@ -202,7 +202,7 @@ metronet-campus-ospf/
 1. Download and install **Cisco Packet Tracer** (v8.0+).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/jahanzaib-147/metronet-campus-ospf.git
+   git clone https://github.com/jahanzaib-147/MetroNet-Enterprise-Campus-OSPF-Backbone.git
    cd metronet-campus-ospf
    ```
 3. Open `packet-tracer/metronet-enterprise-man.pkt`.
